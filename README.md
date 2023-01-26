@@ -1,16 +1,9 @@
-# instagram_clone1
+Instagram Clone using flutter and firebase
 
-A new Flutter project.
+Contents :                                                 
+-> sigin/signup page                          
+->feeds screen                      
+-> search screen                        
+-> profile screen                     
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screens](https://user-images.githubusercontent.com/79010097/214765493-104c218b-644a-4c8e-bb0e-64b59416ac11.jpg)
